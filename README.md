@@ -12,31 +12,36 @@
 - Working on long-term goals is about me 
 -  I love to explore in detail.
 
-##### And -!!CODING!!- the best of my interests and hobbies
+#### And -!!CODING!!- the best of my interests and hobbies
+
+___
 
 ### Skils and tools
-<img align="left" alt="python" width=26px  
+<img align="left" alt="python" width=30x  
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
       
-<img align="left" alt="django" width=26px  
+<img align="left" alt="django" width=36x  
       src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" />      
 
-<img align="left" alt="docker" width=26px  
+<img align="left" alt="docker" width=32px  
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
  
 <img align="left" alt="linux" width=26px  
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
 
-<img align="left" alt="git" width=26px  
+<img align="left" alt="git" width=35px 
       src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="PostgreSQL" width=26px  
-      src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
+<img align="left" alt="github" width=26px 
+      src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" />
 
-<img align="left" alt="python" width=26px  
+<img align="left" alt="PostgreSQL" width=65px
+      src="https://wiki.calculate-linux.org/download_images/original/xpostgresql.jpg.pagespeed.ic.Vi4kLF2JL0.webp" />
+
+<img align="left" alt="jinja" width=26px  
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/120px-PyCharm_Icon.svg.png" />
       
-<img align="left" alt="python" width=60px  
+<img align="left" alt="jinja" width=70px  
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jinja_software_logo.svg/200px-Jinja_software_logo.svg.png" />
 
 
@@ -44,14 +49,11 @@
 <br />
 <br />
 <br />
-- 👋 Hi, I’m @nick097
-- 👀 I’m interested in ...
-- Я ИЩУ СТАЖИРОВКУ ИЛИ РАБОТУ
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  ПО EMAIL(ВСТАВИТЬ КАРТИНКУ), ТАКЖЕ УКАЗАТЬ ЧТО ЭТО И СКАЙП...
+<br />
 
-<!---
-nick097/nick097 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### You can contact me:
+<img align="left" alt="jinja" width=20
+      src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png" />
+nikolaidych@gmail.com
+
+
